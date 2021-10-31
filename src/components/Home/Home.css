@@ -1,0 +1,22 @@
+.display-title{
+    background:linear-gradient(rgba(4, 4, 22, 0.499), rgba(10, 1, 29, 0.623)),url(../../images/banners.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin-top: 5px;
+    height: 400px;
+}
+.title{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.description{
+    display: flex;
+    justify-content: center;
+}
+.description p{
+    margin-top: 30px;
+    width: 450px;
+}

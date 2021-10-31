@@ -1,0 +1,21 @@
+.field-error {
+    color: #f74528 !important;
+  }
+  .title-cmn{
+    color: #302f2f;
+  }
+  .signup-form input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 10px 0 10px 0;
+    outline: none;
+    border: 1px solid #ddd;
+  }
+  .submit-btn {
+    background: #0C4ECA;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+  }

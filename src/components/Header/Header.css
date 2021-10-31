@@ -1,0 +1,7 @@
+.text-cmn{
+    color: #454545;
+}
+
+.text-cmn:hover{
+    border-bottom: 2px solid #0C4ECA;
+}

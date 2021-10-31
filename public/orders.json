@@ -1,0 +1,44 @@
+[
+    {
+        "name": "WAFFLE-FRIES",
+        "img": "https://i.ibb.co/gy4yY7H/WAFFLE-FRIES.jpg",
+        "id": 1,
+        "description": "You know the scene in Scott Pilgrim vs. the World where Scott tells Ramona that, were he to have his way, he’d eat garlic bread forever without ever having to stop? I could probably do that with Chick-fil-A waffle fries.",
+        "price": "PRICE: $2.11 CALORIES: 400"
+    },
+    {
+        "name": "BLIZZARD-DAIRY-QUEEN",
+        "img": "https://i.ibb.co/Wn1kHVS/BLIZZARD-DAIRY-QUEEN.jpg",
+        "id": 2,
+        "description": " Certain foods become more about who you eat them with than how they taste. For me, the Dairy Queen Blizzard is about my wife, about warm summer nights, about sitting and chatting between delicious bites of soft serve swirled with treats (usually Oreo for me).",
+        "price": "PRICE: $5.24 CALORIES: 620 (OREO, SMALL)"
+    },
+    {
+        "name": "BACON-CHEESEBURGER-FIVE-GUYS",
+        "img": "https://i.ibb.co/c3dD1K1/BACON-CHEESEBURGER-FIVE-GUYS.jpg",
+        "id": 3,
+        "description": "Bacon cheeseburgers are great because beef is great,and these things are all great together. But most fast-food hamburgers taste vaguely savory, seem to be made of ingredients that are only food-like, and have the texture of sludge once they're in your mouth.",
+        "price": "PRICE: $11.12 CALORIES: 920"
+    },
+    {
+        "name": "CHICKEN-POPEYES",
+        "img": "https://i.ibb.co/rsfXgR5/CHICKEN-POPEYES.jpg",
+        "id": 4,
+        "description": "The only bad thing about Beyonce is that she has a lifetime of free chicken at Popeyes but, being a vegan, can't take advantage of it. Imagine having unfettered access to that succulent meat and those perfectly crisp and savory flaps of fried skin every day.",
+        "price": "PRICE: $6.77 CALORIES: 440 (MILD CHICKEN BREAST)"
+    },
+    {
+        "name": "FRIES",
+        "img": "https://i.ibb.co/YLFcGRs/FRIES.jpg",
+        "id": 5,
+        "description": "There is a semi-fancy bar that my friends and I like to go to, and we always order a big bowl of their fries because they taste like McDonald’s fries. No matter how fancy the restaurant, “Tastes like McDonald’s fries” is the highest compliment you can give a french fry.",
+        "price": "PRICE: $2.29 CALORIES: 340 (MEDIUM)"
+    },
+    {
+        "name": "MCNUGGETS",
+        "img": "https://i.ibb.co/Yh3KyJs/MCNUGGETS.jpg",
+        "id": 6,
+        "description": "There are only a few things in life that are certain: death, taxes, an episode of Law & Order being on right now, and Chicken McNuggets being delicious. Whether it's the one shaped like a boot, rubber-band–like vein, they are the perfect food.",
+        "price": "PRICE: $5.75 CALORIES: 287 (6-PIECE)"
+    }
+]
